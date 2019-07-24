@@ -61,22 +61,7 @@ Il prend la forme de journées thématiques qui se tiennent une fois par mois : 
 
 Les sessions d'accompagnement se tiendront au [Laptop](https://www.lelaptop.com/), au 7 rue Geoffroy l'Angevin, 75 004 Paris.
 
-Pour voir le détail des sessions d'accompagnement : lien vers la page accompagnement DIG (page à créer pour DIG)
-
-<---
-
-**Programme DIG 2019-2020**
-
-| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
-| -------- | -------- | ------- | ------- | ------ | ----- |
-| Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session Mentors seuls | 11 octobre | 14h-18h30 | Laptop | ------ | ----- |
-| Session DIG | 24 octobre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG | 12 décembre | 9h30-18h30 | Laptop | ------ | ----- |
-
---->
+Pour voir le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.md
 
 #### Tiers-lieu disponible une fois par semaine
 
