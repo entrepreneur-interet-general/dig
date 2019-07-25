@@ -66,7 +66,8 @@ Pour voir le calendrier et le détail des sessions d'accompagnement : https://gi
 #### Tiers-lieu disponible tous les mercredi après-midi
 
 Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un tiers-lieu.
-Tous les mercredi après-midi, sauf avis contraire, le Laptop met à votre disposition un espace de coworking au **6 rue Arthur Rozier, 75 019 Paris**.  
+
+Tous les mercredi après-midi, sauf avis contraire, vous pourrez travailler au **6 rue Arthur Rozier, 75 019 Paris**.  
 
 Pour découvrir le tiers-lieu : https://www.lelaptop.com/espace/les-salles-de-reunion/
 
@@ -81,13 +82,13 @@ Pour découvrir l'outil et renseigner votre rétrospective hebdomadaire : https:
 
 Pour communiquer entre DIG, nous utilisons Slack et une liste de diffusion.
 
-Pour en savoir plus sur les usages de ces outils : lien vers page communication interne (page à créer pour EIG et DIG)
+Pour en savoir plus sur les usages de ces outils : https://github.com/entrepreneur-interet-general/dig/blob/master/communication-interne.md
 
 ### Comment communiquer en-dehors de la promotion ?
 
 On vous encourage à parler de vos défis et du programme. Pour cela, il suffit de respecter quelques bonnes pratiques. 
 
-Pour voir les bonnes pratiques de communication externe : https://doc.eig-forever.org/communication.html (page à amender et créer pour DIG)
+Pour voir les bonnes pratiques de communication externe : https://github.com/entrepreneur-interet-general/dig/blob/master/communication-externe.md
 
 ### Ressources et articles
 
