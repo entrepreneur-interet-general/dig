@@ -12,9 +12,9 @@ C'est donc bien un défi qui s'offre à vous et nous allons vous aider à le rel
 
 ### Qui sommes-nous ?
 
-Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à l'équipe de coordination du programme EIG - nous. 
-Pour en savoir plus sur le programme EIG : https://entrepreneur-interet-general.etalab.gouv.fr/index.html
-Pour en savoir plus sur les membres de l'équipe de coordination : https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html
+Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à l'équipe de coordination du programme EIG - nous : 
+- pour en savoir plus sur le programme EIG : https://entrepreneur-interet-general.etalab.gouv.fr/index.html
+- pour en savoir plus sur les membres de l'équipe de coordination : https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html
 
 **Pour nous contacter, écrivez-nous à l'alias du programme EIG : <entrepreneur-interet-general@data.gouv.fr>.**
 
