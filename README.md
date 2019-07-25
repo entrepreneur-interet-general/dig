@@ -4,7 +4,7 @@ Vous êtes designer d'intérêt général - ou DIG - et vous venez d’arriver d
 
 Vous y êtes pour une durée de 6 à 12 mois pour relever des "défis". C'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation : vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
 
-C'est donc bien un défi qui s'offre à vous et nous allons vous aider à le relever grâce aux ressources présentées dans ce dépôt.
+**C'est donc bien un défi qui s'offre à vous et nous allons vous aider à le relever grâce aux ressources présentées dans ce dépôt.**
 
 
 [[toc]]
@@ -12,7 +12,7 @@ C'est donc bien un défi qui s'offre à vous et nous allons vous aider à le rel
 
 ### Qui sommes-nous ?
 
-Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à l'équipe de coordination du programme EIG - nous : 
+Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à nous, l'équipe de coordination du programme EIG : 
 - pour en savoir plus sur le programme EIG : https://entrepreneur-interet-general.etalab.gouv.fr/index.html
 - pour en savoir plus sur les membres de l'équipe de coordination : https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html
 
@@ -59,14 +59,14 @@ Pour savoir où se déroulent les défis DIG, reportez-vous à la carte ci-desso
 Pour vous suivre tout au long de vos défis, l'équipe a mis en place un programme d'accompagnement.
 Il prend la forme de journées thématiques qui se tiennent une fois par mois : prenez-bien en note les dates !
 
-Les sessions d'accompagnement se tiendront au [Laptop](https://www.lelaptop.com/), au 7 rue Geoffroy l'Angevin, 75 004 Paris.
+Les sessions d'accompagnement se tiendront au [Laptop](https://www.lelaptop.com/), au **7 rue Geoffroy l'Angevin, 75 004 Paris**.
 
-Pour voir le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.md
+Pour voir le calendrier et le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.md
 
-#### Tiers-lieu disponible une fois par semaine
+#### Tiers-lieu disponible tous les mercredi après-midi
 
 Pour vous permettre de vous retrouver entre vous et de travailler en dehors de vos administrations, vous disposez d'un tiers-lieu.
-Tous les mercredi après-midi, sauf avis contraire, le Laptop met à votre disposition un espace de coworking au 6 rue Arthur Rozier, 75 019 Paris.  
+Tous les mercredi après-midi, sauf avis contraire, le Laptop met à votre disposition un espace de coworking au **6 rue Arthur Rozier, 75 019 Paris**.  
 
 Pour découvrir le tiers-lieu : https://www.lelaptop.com/espace/les-salles-de-reunion/
 
@@ -93,15 +93,15 @@ Pour voir les bonnes pratiques de communication externe : https://doc.eig-foreve
 
 Le programme EIG tient un blog dans lequel on publie des articles sur la méthode EIG, les retours d'expérience des EIG (_data scientists_, développeur·euses, mais aussi des designers) : https://entrepreneur-interet-general.etalab.gouv.fr/blog/
 
-**Pour un aperçu de notre méthode et des ressources qui sont à votre disposition, vous pouvez lire :**
+Pour un aperçu de notre méthode et des ressources qui sont à votre disposition, vous pouvez lire :
 - [Les 6 facteurs clés de succès d’un défi EIG](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/05/23/6-facteurs-de-reussite-defi-eig.html)
 - [Quelles ressources mobiliser à Etalab ou à la DINSIC pour mener à bien un projet numérique](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/03/12/bootcamp-eig3.html)
 
-**Pour un retour d'expérience d'une designer immergée dans une administration, vous pouvez lire :**
+Pour un retour d'expérience d'une designer immergée dans une administration, vous pouvez lire :
 - [Comment faire du design de services dans l'administration ? L'exemple du projet ACOSS-plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/07/03/le-design-de-services-dans-une-administration.html)
 
 Des designers qui travaillent au sein du service public français écrivent sur d'autres plateformes.
 
-**Pour une liste des ressources design au sein du service public français, vous pouvez lire cet article de Romy, designer UX à l'incubateur des Startups d'Etat :**
+Pour une liste des ressources design au sein du service public français, vous pouvez lire cet article de Romy, designer UX à l'incubateur des Startups d'Etat :
 - [Quel design system pour le service public ?](https://blog.octo.com/quel-design-system-pour-le-service-public/)
 
