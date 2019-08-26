@@ -28,7 +28,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ### Session du 30 août (DIG seuls)
 
-- 9h - 9h30** : accueil café 
+- 9h - 9h30 : accueil café 
 - 9h30 - 9h45 : continuation du café OU icebreaker
 - 9h45 - 10h : standup
 - 10h - 11h : récapitulatif des sessions du 4 juillet (DIG avec EIG) et du 11 juillet (mentors DIG avec mentors EIG)
