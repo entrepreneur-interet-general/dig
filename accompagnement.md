@@ -42,3 +42,8 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - **16h15 - 17h30 :** atelier n°2 (3 ateleirs en parallèle)
 - **17h30 :** restitution + préparation de la séance prochaine
 - **18h15 :** fin
+
+**Idées d'ateliers :**
+- clinique stratégique
+- feuille de route
+
