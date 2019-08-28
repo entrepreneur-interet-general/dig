@@ -40,7 +40,7 @@ Il prend la forme de journées thématiques qui se tiennent une fois par mois : 
 
 Les sessions d'accompagnement se tiendront au [Laptop](https://www.lelaptop.com/), au **7 rue Geoffroy l'Angevin, 75 004 Paris**.
 
-Pour voir le calendrier et le détail des sessions d'accompagnement : [https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.md](https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.html)
+Pour voir le calendrier et le détail des sessions d'accompagnement : [https://dig.eig-forever.org/accompagnement.html](https://dig.eig-forever.org/accompagnement.html)
 
 #### Tiers-lieu disponible tous les mercredi après-midi
 
@@ -67,7 +67,7 @@ Pour en savoir plus sur les usages de ces outils : [https://github.com/entrepren
 
 On vous encourage à parler de vos défis et du programme. Pour cela, il suffit de respecter quelques bonnes pratiques. 
 
-Pour voir les bonnes pratiques de communication externe : [https://github.com/entrepreneur-interet-general/dig/blob/master/communication-externe.md](https://github.com/entrepreneur-interet-general/dig/blob/master/communication-externe.md)
+Pour voir les bonnes pratiques de communication externe : [https://dig.eig-forever.org/communication-externe.html](https://dig.eig-forever.org/communication-externe.html)
 
 ### Ressources et articles
 
