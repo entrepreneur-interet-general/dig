@@ -47,3 +47,17 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - clinique stratégique
 - feuille de route
 
+### Session du 4 juillet (DIG seuls, en parallèle des EIG)
+
+**Objectifs :** 
+- présenter le programme d'accompagnement (contexte, accompagnement effectif...)
+- faire remonter les besoins et les envies
+- faire témoigner des EIG (Bastien et les designers EIG 3)
+
+**4 thématiques globales / sujets d'ateliers découlent des besoins et envies des DIG :**
+
+| Défi | Méthodologie | Design/DIG | Prospective |
+| -------- | -------- | -------- | ----------| 
+|**feuille de route** : résultats attendus et conditions de succès, métriques et milestones   | **méthodologie et organisation projets** : comment organiser des ateliers ? comment trouver un panel utilisateurs ? comment travailler avec une équipe tech ? quelles synergies entre les projets ?     | **connaître le métier de designer // connaître le métier de son administration** : en déduire une méthodologie de projets et un outillage pour travailller/ naviguer dans l'administration avec un mindset entrepreneurial     | **design fictions** : et si tous les managers publics étaient des designers ? si les managers publics travaillaient avec des designers qui ne sont pas dans l'administration ? |
+| **gouvernance et stratégie** : gestion des parties prenantes, prise de décision, arbitrages, la suite | **documentation**, méthodologie et retour d'expérience | **communication** : identité DIG, restitution des résultats, communication du projet/du programme, communication interne | **fonction transformatrice du programme ?** | 
+|pérennisation/mise en prod  | **design system** : comment mutualiser ce qui est produit ? | |**écosystème open source design** et ressources pour dénicher des innovations similaires | 
