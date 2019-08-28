@@ -1,13 +1,21 @@
 sidebar = [
-  // {
-  //   title: 'Programme EIG',
-  //   collapsable: true,
-  //   children: [
-  //     'accompagnement',
-  //     'animation',
-  //     'contributions',
-  //   ]
-  // }
+   {
+     title: 'Programme DIG',
+     collapsable: true,
+     children: [
+       'accompagnement',
+     ]
+   },
+  
+     {
+     title: 'Communication',
+     collapsable: true,
+     children: [
+      'communication-interne',
+      'communication-externe',
+      'supports-communication'
+     ]
+   },
 ]
 
 module.exports = {
