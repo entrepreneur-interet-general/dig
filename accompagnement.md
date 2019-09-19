@@ -19,7 +19,6 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session Mentors seuls | 11 octobre | 14h-18h30 | Laptop | ------ | ----- |
 | Session DIG | 24 octobre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | Laptop | ------ | ----- |
