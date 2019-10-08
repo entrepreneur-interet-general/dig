@@ -18,12 +18,31 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | Définition des indicateurs | ----- |
 | Session DIG | 24 octobre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | Laptop | ------ | ----- |
 
 ## Présentation détaillée des sessions
+
+### Session du 24 septembre (DIG et mentors l'après-midi)
+- 9h30 - 10h : Accueil et coordination
+- 10h - 10h30 : Standup
+- 10h30 - 11h30 : Reformulation des défis
+- 11h30 - 12h30 : Échanges libres
+- 12h30 - 14h : Déjeuner libre
+- 14h - 14h30 : Accueil des mentors
+- 14h30 - 16h : Partage des défis et indicateurs individuels du PIA
+- 16h00 - 16h15 : Pause
+- 16h15 - 17h15 : Échanges libres, ateliers au choix
+- 17h15 - 18h : Conclusion
+
+**Ateliers proposés :**
+- Clarifier son défi et ses objectifs
+- Autour des indicateurs communs 
+- Comment suivre les indicateurs, organisation des équipes
+
+**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/session-daccompagnement-dig-26-septembre)**
 
 ### Session du 30 août (DIG seuls)
 
