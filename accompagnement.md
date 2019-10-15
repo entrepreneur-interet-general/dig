@@ -22,10 +22,16 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | Session DIG | 24 octobre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG + Mentors | 9 janvier | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG | 13 février | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG | 5 mars | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG + Mentors | 2 avril | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG | 14 mai | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG | 18 juin | 9h30-18h30 | Laptop | ------ | ----- |
 
 ## Présentation détaillée des sessions
 
-### Session du 24 septembre (DIG et mentors l'après-midi)
+### Session du 26 septembre (DIG et mentors l'après-midi)
 - 9h30 - 10h : Accueil et coordination
 - 10h - 10h30 : Standup
 - 10h30 - 11h30 : Reformulation des défis
