@@ -35,9 +35,9 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 9h30 - 10h : Accueil 
 - 10h - 10h30 : Standup et coordination
 - 10h30 - 12h00 : Documenter son défi
-- 12h00 - 12h30 : Présentation de l'après-midi et photo de groupe
+- 12h00 - 12h30 : Présentation des ateliers et photo de groupe
 - 12h30 - 14h : Déjeuner libre
-- 14h - 18h00 : Ateliers libres
+- 14h - 18h00 : Ateliers au choix
 
 
 **Ateliers proposés :**
@@ -79,7 +79,7 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 - 14h - 14h30 : bulloterie
 - 14h30 - 15h45 : atelier n°1 (3 ateliers en parallèle)
 - 15h45 - 16h15 : pause
-- 16h15 - 17h30 : atelier n°2 (3 ateleirs en parallèle)
+- 16h15 - 17h30 : atelier n°2 (3 ateliers en parallèle)
 - 17h30 : restitution + préparation de la séance prochaine
 - 18h15 : fin
 
