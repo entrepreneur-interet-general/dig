@@ -19,17 +19,33 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
 | Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | Définition des indicateurs | ----- |
-| Session DIG | 24 octobre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG | 12 décembre | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors | 9 janvier | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG | 13 février | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG | 5 mars | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors | 2 avril | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG | 14 mai | 9h30-18h30 | Laptop | ------ | ----- |
+| Session DIG | 24 octobre | 9h30-18h30 | Laptop | Documenter les défis | ----- |
+| Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | Démos et design review - Focus accessibilité | ----- |
+| Session DIG | 12 décembre | 9h30-18h30 | Laptop | Retours et apprentissages intermédiaires | ----- |
+| Session DIG + Mentors | 9 janvier | 9h30-18h30 | Laptop | Vision des défis - Focus ouverture | ----- |
+| Session DIG | 13 février | 9h30-18h30 | Laptop | Ressources et référentiel design | ----- |
+| Session DIG | 5 mars | 9h30-18h30 | Laptop | Qualité des démarches en ligne - Focus partenaires | ----- |
+| Session DIG + Mentors | 2 avril | 9h30-18h30 | Laptop | Déployer et ouvrir | ----- |
+| Session DIG | 14 mai | 9h30-18h30 | Laptop | Valorisation et évaluation des défis | ----- |
 | Session DIG | 18 juin | 9h30-18h30 | Laptop | ------ | ----- |
 
 ## Présentation détaillée des sessions
+
+### Session du 24 octobre (DIG seuls)
+- 9h30 - 10h : Accueil 
+- 10h - 10h30 : Standup et coordination
+- 10h30 - 12h00 : Documenter son défi
+- 12h00 - 12h30 : Présentation de l'après-midi et photo de groupe
+- 12h30 - 14h : Déjeuner libre
+- 14h - 18h00 : Ateliers libres
+
+
+**Ateliers proposés :**
+- Testers avec des usagers : Retours d'expériences et protocoles
+- Autour des prototypes : Tester et concevoir
+- Documenter les défis : En pratique
+- Besoins design : Suivi des défis
+
 
 ### Session du 26 septembre (DIG et mentors l'après-midi)
 - 9h30 - 10h : Accueil et coordination
