@@ -18,14 +18,14 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 | SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
 | -------- | -------- | ------- | ------- | ------ | ----- |
 | Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 | Laptop | Définition des indicateurs | ----- |
+| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Définition des indicateurs | ----- |
 | Session DIG | 24 octobre | 9h30-18h30 | Laptop | Documenter les défis | ----- |
-| Session DIG + Mentors | 28 novembre | 9h30-18h30 | Laptop | Démos et design review - Focus accessibilité | ----- |
+| Session DIG + Mentors l'après-midi | 28 novembre | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Démos et design review - Focus accessibilité | ----- |
 | Session DIG | 12 décembre | 9h30-18h30 | Laptop | Retours et apprentissages intermédiaires | ----- |
-| Session DIG + Mentors | 9 janvier | 9h30-18h30 | Laptop | Vision des défis - Focus ouverture | ----- |
+| Session DIG + Mentors l'après-midi | 9 janvier | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Vision des défis - Focus ouverture | ----- |
 | Session DIG | 13 février | 9h30-18h30 | Laptop | Ressources et référentiel design | ----- |
 | Session DIG | 5 mars | 9h30-18h30 | Laptop | Qualité des démarches en ligne - Focus partenaires | ----- |
-| Session DIG + Mentors | 2 avril | 9h30-18h30 | Laptop | Déployer et ouvrir | ----- |
+| Session DIG + Mentors l'après-midi | 2 avril | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Déployer et ouvrir | ----- |
 | Session DIG | 14 mai | 9h30-18h30 | Laptop | Valorisation et évaluation des défis | ----- |
 | Session DIG | 18 juin | 9h30-18h30 | Laptop | ------ | ----- |
 
