@@ -31,6 +31,16 @@ Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajou
 
 ## Présentation détaillée des sessions
 
+### Session du 28 novembre (DIG et mentors l'après-midi)
+- 9h30 - 10h Accueil et stand-up
+- 10h - 10h30 Actualités et coordination
+- 10h30 - 10h45 Retours sur la documentation
+- 11h00 - 12h30 Échange libre sur la documentation des défis
+- 12h30 - 14h Déjeuner libre
+- 14h - 15h Accueil et introduction au Design review
+- 15h - 17h Démos et design review - Plusieurs sessions
+- 17h - 18h Retours d'expérience et applications
+
 ### Session du 24 octobre (DIG seuls)
 - 9h30 - 10h : Accueil 
 - 10h - 10h30 : Standup et coordination
