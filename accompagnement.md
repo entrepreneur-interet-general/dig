@@ -9,9 +9,9 @@ Le **programme d'accompagnement** comprend des sessions plénières avec les DIG
 
 ### Agenda partagé
 
-Visible et mis à jour sur l'agenda public suivant : [https://owncloud.data.gouv.fr/index.php/apps/calendar/p/LbGNBTtFG7HowH9P/DIG](https://owncloud.data.gouv.fr/index.php/apps/calendar/p/LbGNBTtFG7HowH9P/DIG)
+Visible et mis à jour sur l'agenda public suivant : 
+[https://framagenda.org/index.php/apps/calendar/p/rb7BACNibFbbQCnj/DIG](https://framagenda.org/index.php/apps/calendar/p/rb7BACNibFbbQCnj/DIG)
 
-Pour l'intégrer à un agenda (Google Calendar par exemple), il suffit de l'ajouter à partir de l'URL suivante : [webcal://owncloud.data.gouv.fr/remote.php/dav/public-calendars/LbGNBTtFG7HowH9P?export](webcal://owncloud.data.gouv.fr/remote.php/dav/public-calendars/LbGNBTtFG7HowH9P?export)
 
 ### Programme 2019
 
