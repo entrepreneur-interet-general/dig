@@ -41,6 +41,8 @@ Visible et mis à jour sur l'agenda public suivant :
 - 15h - 17h Démos et design review - Plusieurs sessions
 - 17h - 18h Retours d'expérience et applications
 
+**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/dig-session-number-4-demos-et-design-review)**
+
 ### Session du 24 octobre (DIG seuls)
 - 9h30 - 10h : Accueil 
 - 10h - 10h30 : Standup et coordination
@@ -55,6 +57,8 @@ Visible et mis à jour sur l'agenda public suivant :
 - Autour des prototypes : Tester et concevoir
 - Documenter les défis : En pratique
 - Besoins design : Suivi des défis
+
+**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/session-daccompagnement-dig-23-octobre-91ab0165-dec3-4d28-a0b9-0a384beee5c5)**
 
 
 ### Session du 26 septembre (DIG et mentors l'après-midi)
