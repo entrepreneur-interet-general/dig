@@ -31,6 +31,17 @@ Visible et mis à jour sur l'agenda public suivant :
 
 ## Présentation détaillée des sessions
 
+### Session du 12 décembre (DIG seuls)
+- 9h30 - 10h30 	Accueil et actualités
+- 10h30 - 11h		Retours Design et gouvernements
+- 11h00 - 12h30 Cartographie des défis
+- 12h30 - 14h 	Déjeuner collectif
+- 14h - 15h 		Débat mouvant Design de services publics
+- 15h - 17h30 	Ateliers
+- 17h30 - 18h		Clôture
+
+**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/dig-session-number-5-premiers-retours-et-apprentissages)**
+
 ### Session du 28 novembre (DIG et mentors l'après-midi)
 - 9h30 - 10h Accueil et stand-up
 - 10h - 10h30 Actualités et coordination
