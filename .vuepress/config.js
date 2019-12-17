@@ -4,6 +4,7 @@ sidebar = [
      collapsable: true,
      children: [
        'accompagnement',
+       'restitutions',
        'facteurs-reussite'
      ]
    },
