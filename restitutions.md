@@ -26,8 +26,12 @@ Ce 2ème meetup sera axé sur l'**inclusion et l'accès aux droits**. Les projet
 * **[ProxiRH](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/proxi-rh.html)** : Accompagner le développement professionnel des agents de l’académie de Lyon à travers une plateforme numérique, par Laurent Darellis
 * **[Karfu'R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html)** : Aider les réfugiés dans leurs démarches avec une plateforme adaptée, par Hugo Stéphan
 
+
+::: tip
 **Communication : [Agenda Dinum](https://www.numerique.gouv.fr/agenda/design-public-meetup-2/)**
+
 **Inscription : [Lien du meet-up](https://www.eventbrite.fr/e/billets-design-public-meetup-2-83821453223)**
+:::
 
 ### Meet-up du 22 janvier 
 
@@ -38,5 +42,6 @@ Ce 3ème meetup sera axé sur l'**accueil & la gestion de l’urgence**. Les pro
 - **[Plateforme Handicap](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plateforme-handicap.html)** : Simplifier le parcours des familles dont les enfants sont en situation de handicap, par [Sofia Boulaarab](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/sofia-boulaarab.html) et [Pierre Charreau](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/pierre-charreau.html)
 - **[App 112](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/app-112.html)** : Aider à sauver des vies en situation d'urgence, par [Julien Dubedout](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/julien-dubedout.html)
 
+::: tip
 **Inscription : [Lien du meet-up](https://www.eventbrite.fr/e/billets-design-public-meetup-3-88477270899)**
-
+:::
