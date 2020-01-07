@@ -31,6 +31,22 @@ Visible et mis à jour sur l'agenda public suivant :
 
 ## Présentation détaillée des sessions
 
+### Session du 9 janvier (DIG et mentors)
+- 9h30 - 10h : Accueil 
+- 10h - 10h30 : Standup et coordination
+- 10h30 - 13h00 : Démos et design review - 3 sessions
+- 13h00 - 14h : Déjeuner libre
+- 14h00 - 14h30 : Retours sur le programme DIG
+- 14h30 - 17h00 : Ateliers d'enrichissement des défis
+- 17h00 - 18h		: Retours et Clôture
+
+**Ateliers d'enrichissement des défis :**
+- Vision et périmètre
+- Publics et accessibilité
+- Parcours et interface
+- Pérennisation et ouverture
+
+
 ### Session du 12 décembre (DIG seuls)
 - 9h30 - 10h30 	Accueil et actualités
 - 10h30 - 11h		Retours Design et gouvernements
@@ -61,7 +77,6 @@ Visible et mis à jour sur l'agenda public suivant :
 - 12h00 - 12h30 : Présentation des ateliers et photo de groupe
 - 12h30 - 14h : Déjeuner libre
 - 14h - 18h00 : Ateliers au choix
-
 
 **Ateliers proposés :**
 - Testers avec des usagers : Retours d'expériences et protocoles
