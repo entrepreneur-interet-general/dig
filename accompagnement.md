@@ -31,6 +31,21 @@ Visible et mis à jour sur l'agenda public suivant :
 
 ## Présentation détaillée des sessions
 
+### Session du 13 février (DIG seuls)
+- 9h30 - 10h : Accueil 
+- 10h - 11h : Présentation Design System, SIG
+- 11h00 - 11h30 : Présentation Identité des institutions, Laurie Chapotte - EIG
+- 11h30 - 13h00 : Mutualisation des ressources design
+- 13h00 - 14h : Déjeuner libre
+- 14h00 - 16h00 : Ateliers
+- 16h00 - 17h00 : Présentation de Design.gouv, Marine Boudeau 
+- 17h00 - 18h		: Retours et Clôture
+
+**Ateliers de travail :**
+- Vers un design system 
+- Mise en commun des ressources
+- Review des documentations
+
 ### Session du 9 janvier (DIG et mentors)
 - 9h30 - 10h : Accueil 
 - 10h - 10h30 : Standup et coordination
