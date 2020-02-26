@@ -6,7 +6,7 @@
 
 ### Site web
 
-Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link. Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
+Le site [entrepreneur-interet-general.etalab.gouv.fr](https://entrepreneur-interet-general.etalab.gouv.fr) et son [flux RSS](https://entrepreneur-interet-general.etalab.gouv.fr/feed.xml) est maintenu par l'équipe Etalab et les EIG Link.Le site web possède son [dépôt GitHub](https://github.com/entrepreneur-interet-general/site-eig).
 
 Le blog EIG est accessible à l'adresse suivante : [https://entrepreneur-interet-general.etalab.gouv.fr/blog/](https://entrepreneur-interet-general.etalab.gouv.fr/blog/)
 

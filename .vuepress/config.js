@@ -7,14 +7,24 @@ sidebar = [
        'facteurs-reussite'
      ]
    },
-  
+  {
+     title: 'Ressources',
+     collapsable: true,
+     children: [
+      'ecosysteme',
+      'encadrement',
+      'outils',
+      'reseau'
+     ]
+   },
      {
-     title: 'Communication',
+     title: 'Bonnes pratiques',
      collapsable: true,
      children: [
       'communication-interne',
       'communication-externe',
-      'supports-communication'
+      'supports-communication',
+      'design'
      ]
    },
 ]
