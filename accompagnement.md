@@ -24,12 +24,20 @@ Visible et mis à jour sur l'agenda public suivant :
 | Session DIG | 12 décembre | 9h30-18h30 | Laptop | Retours et apprentissages intermédiaires | ----- |
 | Session DIG + Mentors le matin | 9 janvier | 9h30-18h30 pour les DIG, 9h30 - 12h30 pour les mentors | Laptop | Démos et design review - Enrichissement vision | ----- |
 | Session DIG | 13 février | 9h30-18h30 | Laptop | Ressources et référentiel design | ----- |
-| Session DIG | 5 mars | 9h30-18h30 | Laptop | Qualité des démarches en ligne - Focus partenaires | ----- |
+| Session DIG | 5 mars | 9h30-18h30 | Laptop | Démos et design review - Enrichissement | ----- |
 | Session DIG + Mentors l'après-midi | 2 avril | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Déployer et ouvrir | ----- |
 | Session DIG | 14 mai | 9h30-18h30 | Laptop | Valorisation et évaluation des défis | ----- |
 | Session DIG | 18 juin | 9h30-18h30 | Laptop | ------ | ----- |
 
 ## Présentation détaillée des sessions
+
+### Session du 5 mars (DIG seuls)
+- 9h30 - 10h : Accueil 
+- 10h - 10h30 : Standup et coordination
+- 10h30 - 13h00 : Démos et design review
+- 13h00 - 14h : Déjeuner libre
+- 14h00 - 17h00 : Ateliers d'enrichissement des défis
+- 17h00 - 18h		: Retours et Clôture
 
 ### Session du 13 février (DIG seuls)
 - 9h30 - 10h : Accueil 
