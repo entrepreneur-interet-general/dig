@@ -14,7 +14,7 @@ sidebar = [
       'ecosysteme',
       'ingenerie-programme',
       'outils-refs',
-      'outils-tech'
+      'outils-tech',
       'reseau-eig'
      ]
    },
