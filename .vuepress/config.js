@@ -6,7 +6,6 @@ sidebar = [
        'accompagnement',
        'planning',
        'restitutions'
-       'facteurs-reussite'
      ]
    },
   {
