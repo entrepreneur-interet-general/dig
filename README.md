@@ -1,6 +1,6 @@
 # Embarquement des designers d'intérêt général 
 
-Vous êtes designer d'intérêt général - ou DIG - et vous venez d’arriver dans votre administration : bienvenu·es !
+Vous êtes designer d'intérêt général - ou DIG - et vous venez d’arriver dans votre administration : bienvenu·e·s !
 
 Vous y êtes pour une durée de 6 à 12 mois pour relever des "défis". C'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation : vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
 
