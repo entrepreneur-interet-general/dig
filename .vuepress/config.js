@@ -4,7 +4,8 @@ sidebar = [
      collapsable: true,
      children: [
        'accompagnement',
-       'planning'
+       'planning',
+       'restitutions'
      ]
    },
   {
