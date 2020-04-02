@@ -1,6 +1,6 @@
-# Pourquoi et comment documenter les défis et ce que les EIG auront produit ?
+# Documenter les défis 
                                                                                                                                                                                                                                                          
-Ouvrir ce que les EIG auront produit est une manière de valoriser le travail accompli, de partager un même niveau d’information entre toutes les parties prenantes et d’être redevable.
+Ouvrir et publier ce que les EIG auront produit est une manière de valoriser le travail accompli, de partager un même niveau d’information entre toutes les parties prenantes et d’être redevable.
 
 Cette ouverture peut prendre plusieurs formes :
 - un site projet qui présente le défi, les réalisations, les parties prenantes ; 

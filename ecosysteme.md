@@ -1,4 +1,4 @@
-# Écosystème DIMUN et Etalab
+# L'écosystème DIMUN et Etalab
 
 Ce document synthétise les différentes ressources de la DINUM et d'Etalab et reprend les présentations du bootcamp.
 

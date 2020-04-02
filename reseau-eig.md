@@ -1,4 +1,4 @@
-# Réseau EIG
+# Le réseau EIG
 
 [[toc]]
 

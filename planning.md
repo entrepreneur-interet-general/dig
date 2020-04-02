@@ -1,4 +1,4 @@
-planning# Planning du programme
+# Planning du programme
 
 Le **programme d'accompagnement** comprend des sessions plénières mensuelles avec les DIG seuls ou avec les DIG et leurs mentors.
 Les sessions d'accompagnement se tiennent au [Laptop](https://www.lelaptop.com/), au 7 rue Geoffroy l'Angevin, 75004 Paris.
