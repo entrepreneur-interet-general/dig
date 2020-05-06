@@ -1,1 +1,1 @@
-# Facteurs de réussite d'un défi DIG
+# Facteurs de réussite d'un défi

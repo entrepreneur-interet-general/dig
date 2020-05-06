@@ -1,4 +1,4 @@
-# Accompagnement de la promotion
+# Accompagnement et outils
 
 Pour vous suivre tout au long de vos défis, l'équipe EIG a mis en place un programme d'accompagnement.
 

@@ -1,4 +1,4 @@
-# Planning des restitutions des défis
+# Planning de restitution des défis
 
 [[toc]]
 

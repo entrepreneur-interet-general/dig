@@ -1,4 +1,4 @@
-# Ingénierie du programme  
+# Ingénierie du programme EIG
 
 Cette documentation détaille les éléments nécessaires à la mise en place de dispositifs similaires à EIG dans d'autres organisations.
 

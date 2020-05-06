@@ -1,10 +1,10 @@
-# L'écosystème DIMUN et Etalab
+# L'écosystème DINUM et Etalab
 
-Ce document synthétise les différentes ressources de la DINUM et d'Etalab et reprend les présentations du bootcamp.
+Ce document synthétise les différentes ressources de la DINUM et d'Etalab.
 
 [[toc]]
 
-## Équipes Etalab 
+## Les équipes Etalab 
 
 ### data.gouv.fr
 La plateforme [data.gouv.fr](https://www.data.gouv.fr/) est la plateforme nationale ouverte des données publiques françaises.

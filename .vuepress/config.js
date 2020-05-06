@@ -1,6 +1,6 @@
 sidebar = [
    {
-     title: 'Le Programme',
+     title: 'La Promotion',
      collapsable: true,
      children: [
        'accompagnement',
