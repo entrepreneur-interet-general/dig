@@ -5,9 +5,9 @@ sidebar = [
      children: [
        'accompagnement',
        'planning',
-       'restitutions'
-       'outils'
-       'tiers-lieu'
+       'restitutions',
+       'outils',
+       'tiers-lieu',
      ]
    },
   {
@@ -28,8 +28,8 @@ sidebar = [
       'developpement',
       'opensource-licences',
       'opendata',
-      'algorithmes-publics'
-      'securite',
+      'algorithmes-publics',
+      'securite'
     ]
   },
      {
