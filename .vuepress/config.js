@@ -6,32 +6,45 @@ sidebar = [
        'accompagnement',
        'planning',
        'restitutions'
+       'outils'
+       'tiers-lieu'
      ]
    },
   {
-     title: 'Ressources',
-     collapsable: true,
-     children: [
+    title: 'Programme EIG',
+    collapsable: true,
+    children: [
       'ecosysteme',
       'ingenerie-programme',
-      'outils-refs',
-      'outils-tech',
       'reseau-eig'
-     ]
-   },
+    ]
+  },
+    {
+    title: 'Ressources',
+    collapsable: true,
+    children: [
+      'referencetiels',
+      'design',
+      'developpement',
+      'opensource-licences',
+      'opendata',
+      'algorithmes-publics'
+      'securite',
+    ]
+  },
      {
      title: 'Bonnes pratiques',
      collapsable: true,
      children: [
-      'accueillir-eig',
-      'preparer-defi',
-      'indicateurs-impact',
+      'accueil-eig',
+      'preparation-defi',
+      'mesure-impact',
       'concevoir',
       'prototyper',
       'ouvrir-publier',
-      'communiquer',
-      'documenter-defis',
-      'perenniser-defis'
+      'communication',
+      'documentation-defis',
+      'perennisation-defis'
      ]
    },
 ]
