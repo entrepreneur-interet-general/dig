@@ -6,7 +6,7 @@ sidebar = [
        'accompagnement',
        'planning',
        'restitutions',
-       'outils',
+       'outils-promotion',
        'tiers-lieu',
      ]
    },
