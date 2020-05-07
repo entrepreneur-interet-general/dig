@@ -23,7 +23,7 @@ sidebar = [
     title: 'Ressources',
     collapsable: true,
     children: [
-      'referencetiels',
+      'referentiels',
       'design',
       'developpement',
       'opensource-licences',
