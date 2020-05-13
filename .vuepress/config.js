@@ -7,7 +7,7 @@ sidebar = [
        'planning',
        'restitutions',
        'outils-promotion',
-       'tiers-lieu',
+       'tiers-lieu'
      ]
    },
   {
