@@ -1,7 +1,8 @@
 # Le programme EIG
 
+[[toc]]
 
-
+## Le programme EIG
 
 ### Qui sommes-nous ?
 
