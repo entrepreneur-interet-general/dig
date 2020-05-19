@@ -5,7 +5,6 @@ sidebar = [
      children: [
        'accompagnement',
        'planning',
-       'restitutions',
        'outils-promotion',
        'tiers-lieu'
      ]
@@ -14,7 +13,7 @@ sidebar = [
     title: 'Programme EIG',
     collapsable: true,
     children: [
-      'programme-eig'
+      'programme-eig',
       'ecosysteme',
       'ingenerie-programme',
       'reseau-eig'
