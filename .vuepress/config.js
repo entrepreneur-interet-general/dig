@@ -51,8 +51,8 @@ sidebar = [
 
 module.exports = {
   theme: 'gouv-fr',
-  title: 'Documentation DIG',
-  description: "La documentation interne du programme Designers d'Intérêt Général.",
+  title: 'Documentation EIG',
+  description: "Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme Entrepreneurs d'Intérêt Général à destination de la communauté EIG",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#0053b3' }]
@@ -60,6 +60,7 @@ module.exports = {
   themeConfig: {
     sidebar: sidebar,
     sidebarDepth: 1,
+    logo: '/images/logo-eig.svg',
     docsDir: ".",
     repo: 'entrepreneur-interet-general/dig',
     repoLabel: 'Dépôt Git',

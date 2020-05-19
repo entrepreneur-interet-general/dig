@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://placeimg.com/800/500/nature
+heroImage: /img/logo-eig-text.png
 actionText: Installation →
 actionLink: /installation
 features:
@@ -10,5 +10,5 @@ features:
   details: Accéder au planning, aux outils
 - title: Mener à bien son défi
   details: Les ressources et bonnes pratiques.
-footer: Licence MIT
+footer: Les contenus accessibles dans ce dépôt sont placés sous Licence Ouverte 2.0 dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 ---
