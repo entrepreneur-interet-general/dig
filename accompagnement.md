@@ -1,166 +1,42 @@
-# Planning du programme
+# Accompagnement de la promotion
+
+Pour vous suivre tout au long de vos défis, l'équipe EIG a mis en place un programme d'accompagnement.
+Ce programme s'organise suivants plusieurs axes d'animations et d’événements.
 
 [[toc]]
 
-Le **programme d'accompagnement** comprend des sessions plénières avec les DIG seuls, les mentors seuls ou avec les DIG et les mentors.
+## Les formats d'accompagnement
+### Bootcamp
+_1 fois en début de promotion, durée d'une semaine._
+En début d'année, lorsque les entrepreneurs rejoignent le programme et après quelques jours dans leur organisme d'accueil, nous organisons une semaine d'intégration. C'est l'occasion que chacun fasse connaissance avec ses collègues, découvre l'accompagnement proposé par le programme, présente les premières problématiques auxquelles ils vont s'attaquer.
+
+### Sessions de travail collectives
+À raison d'une journée par mois, nous regroupons tous les défis en un même lieu. Ces sessions de travail collectives sont l'occasion d'aborder une thématique (cadre juridique, documentation, communication) avec une alternance d'ateliers, de présentations et de temps d'échange. Ces journées commencent par un standup, où chaque défi présente ses avancées. 
+
+Ces sessions permettent :
+- d'assurer des synergies techniques et des suivis méthodologiques (entre défis et compétences) ;
+- de souder la promotion des EIG et des mentors, en favorisant des échanges informels et s'ancrant dans la communauté "numérique de l'État".
+
+Pour voir le planning et le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/planning.md
+
+### Accompagnement individuel
+Chaque défi a une personne référente au sein de l'équipe d'accompagnement du programme. La personne référente est le point de contact privilégié avec l'équipe du programme. Elle prend des nouvelles de chaque défi régulièrement, par le biais d'appels téléphoniques ou de rendez-vous physiques.
+
+Ces sessions sont un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défi.
+
+### Séminaires hors-les-murs
+_2 fois lors d'une promotion, 2 jours_
+Deux séminaires « hors-les-murs » sont organisés au cours d'une promotion : le premier à mi-parcours et le deuxième quelques semaines avant la fin de la promotion. D'une durée de 2 jours, nous nous retrouvons dans un lieu en dehors de Paris pour accélérer les défis, collaborer, parler stratégie et souder la promotion.
 
 
-## Planning des sessions
+## Suivi des défis
 
-### Agenda partagé
+Une rétrospective hebdomadaire asynchrone permet de remonter et partager les victoires, les difficultés et les besoins des défis. Elle prend la forme d'un court formulaire que chaque défi remplit avant 14h30 le vendredi. Les nouvelles des défis sont partagées dans un mail à toute la promotion à 15h.
+Pour découvrir l'outil et renseigner votre rétrospective hebdomadaire : https://eig.ma-semaine.eig-forever.org/
 
-Visible et mis à jour sur l'agenda public suivant : 
-[https://framagenda.org/index.php/apps/calendar/p/rb7BACNibFbbQCnj/DIG](https://framagenda.org/index.php/apps/calendar/p/rb7BACNibFbbQCnj/DIG)
-
-
-### Programme 2019
-
-| SESSIONS D'ACCOMPAGNEMENT | DATES | HORAIRES | LIEU | THÉMATIQUE | OBJECTIFS 
-| -------- | -------- | ------- | ------- | ------ | ----- |
-| Session DIG | 30 août | 9h30-18h30 | Laptop | ------ | ----- |
-| Session DIG + Mentors l'après-midi | 26 septembre | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Définition des indicateurs | ----- |
-| Session DIG | 24 octobre | 9h30-18h30 | Laptop | Documenter les défis | ----- |
-| Session DIG + Mentors l'après-midi | 28 novembre | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Démos et design review - Focus accessibilité | ----- |
-| Session DIG | 12 décembre | 9h30-18h30 | Laptop | Retours et apprentissages intermédiaires | ----- |
-| Session DIG + Mentors le matin | 9 janvier | 9h30-18h30 pour les DIG, 9h30 - 12h30 pour les mentors | Laptop | Démos et design review - Enrichissement vision | ----- |
-| Session DIG | 13 février | 9h30-18h30 | Laptop | Ressources et référentiel design | ----- |
-| Session DIG | 5 mars | 9h30-18h30 | Laptop | Démos et design review - Enrichissement | ----- |
-| Session DIG + Mentors l'après-midi | 2 avril | 9h30-18h30 pour les DIG, 14h - 18h30 pour les mentors | Laptop | Déployer et ouvrir | ----- |
-| Session DIG | 14 mai | 9h30-18h30 | Laptop | Valorisation et évaluation des défis | ----- |
-| Session DIG | 18 juin | 9h30-18h30 | Laptop | ------ | ----- |
-
-## Présentation détaillée des sessions
-
-### Session du 5 mars (DIG seuls)
-- 9h30 - 10h : Accueil 
-- 10h - 10h30 : Standup et coordination
-- 10h30 - 13h00 : Démos et design review
-- 13h00 - 14h : Déjeuner libre
-- 14h00 - 17h00 : Ateliers d'enrichissement des défis
-- 17h00 - 18h		: Retours et Clôture
-
-### Session du 13 février (DIG seuls)
-- 9h30 - 10h : Accueil 
-- 10h - 11h : Présentation Design System, SIG
-- 11h00 - 11h30 : Présentation Identité des institutions, Laurie Chapotte - EIG
-- 11h30 - 13h00 : Mutualisation des ressources design
-- 13h00 - 14h : Déjeuner libre
-- 14h00 - 16h00 : Ateliers
-- 16h00 - 17h00 : Présentation de Design.gouv, Marine Boudeau 
-- 17h00 - 18h		: Retours et Clôture
-
-**Ateliers de travail :**
-- Vers un design system 
-- Mise en commun des ressources
-- Review des documentations
-
-### Session du 9 janvier (DIG et mentors)
-- 9h30 - 10h : Accueil 
-- 10h - 10h30 : Standup et coordination
-- 10h30 - 13h00 : Démos et design review - 3 sessions
-- 13h00 - 14h : Déjeuner libre
-- 14h00 - 14h30 : Retours sur le programme DIG
-- 14h30 - 17h00 : Ateliers d'enrichissement des défis
-- 17h00 - 18h		: Retours et Clôture
-
-**Ateliers d'enrichissement des défis :**
-- Vision et périmètre
-- Publics et accessibilité
-- Parcours et interface
-- Pérennisation et ouverture
+_En savoir plus sur l'outil [Bulletins](https://bulletins.eig-forever.org)_
 
 
-### Session du 12 décembre (DIG seuls)
-- 9h30 - 10h30 	Accueil et actualités
-- 10h30 - 11h		Retours Design et gouvernements
-- 11h00 - 12h30 Cartographie des défis
-- 12h30 - 14h 	Déjeuner collectif
-- 14h - 15h 		Débat mouvant Design de services publics
-- 15h - 17h30 	Ateliers
-- 17h30 - 18h		Clôture
-
-**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/dig-session-number-5-premiers-retours-et-apprentissages)**
-
-### Session du 28 novembre (DIG et mentors l'après-midi)
-- 9h30 - 10h Accueil et stand-up
-- 10h - 10h30 Actualités et coordination
-- 10h30 - 10h45 Retours sur la documentation
-- 11h00 - 12h30 Échange libre sur la documentation des défis
-- 12h30 - 14h Déjeuner libre
-- 14h - 15h Accueil et introduction au Design review
-- 15h - 17h Démos et design review - Plusieurs sessions
-- 17h - 18h Retours d'expérience et applications
-
-**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/dig-session-number-4-demos-et-design-review)**
-
-### Session du 24 octobre (DIG seuls)
-- 9h30 - 10h : Accueil 
-- 10h - 10h30 : Standup et coordination
-- 10h30 - 12h00 : Documenter son défi
-- 12h00 - 12h30 : Présentation des ateliers et photo de groupe
-- 12h30 - 14h : Déjeuner libre
-- 14h - 18h00 : Ateliers au choix
-
-**Ateliers proposés :**
-- Testers avec des usagers : Retours d'expériences et protocoles
-- Autour des prototypes : Tester et concevoir
-- Documenter les défis : En pratique
-- Besoins design : Suivi des défis
-
-**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/session-daccompagnement-dig-23-octobre-91ab0165-dec3-4d28-a0b9-0a384beee5c5)**
+## L'équipe d'encadrement
 
 
-### Session du 26 septembre (DIG et mentors l'après-midi)
-- 9h30 - 10h : Accueil et coordination
-- 10h - 10h30 : Standup
-- 10h30 - 11h30 : Reformulation des défis
-- 11h30 - 12h30 : Échanges libres
-- 12h30 - 14h : Déjeuner libre
-- 14h - 14h30 : Accueil des mentors
-- 14h30 - 16h : Partage des défis et indicateurs individuels du PIA
-- 16h00 - 16h15 : Pause
-- 16h15 - 17h15 : Échanges libres, ateliers au choix
-- 17h15 - 18h : Conclusion
-
-**Ateliers proposés :**
-- Clarifier son défi et ses objectifs
-- Autour des indicateurs communs 
-- Comment suivre les indicateurs, organisation des équipes
-
-**Support de présentation : [Lien du support](https://speakerdeck.com/eig2018/session-daccompagnement-dig-26-septembre)**
-
-### Session du 30 août (DIG seuls)
-
-- 9h - 9h30 : accueil café 
-- 9h30 - 9h45 : continuation du café OU icebreaker
-- 9h45 - 10h : standup
-- 10h - 11h : récapitulatif des sessions du 4 juillet (DIG avec EIG) et du 11 juillet (mentors DIG avec mentors EIG)
-- 11h - 11h30 : pause
-- 11h30 - 12h30 : planification des ateliers de l'après-midi
-- 12h30 - 12h40 : présentation du Laptop
-- 12h40 - 14h : déjeuner libre
-- 14h - 14h30 : bulloterie
-- 14h30 - 15h45 : atelier n°1 (3 ateliers en parallèle)
-- 15h45 - 16h15 : pause
-- 16h15 - 17h30 : atelier n°2 (3 ateliers en parallèle)
-- 17h30 : restitution + préparation de la séance prochaine
-- 18h15 : fin
-
-**Idées d'ateliers :**
-- clinique stratégique
-- feuille de route
-
-### Session du 4 juillet (DIG seuls, en parallèle des EIG)
-
-**Objectifs :** 
-- présenter le programme d'accompagnement (contexte, accompagnement effectif...)
-- faire remonter les besoins et les envies
-- faire témoigner des EIG (Bastien et les designers EIG 3)
-
-**4 thématiques globales / sujets d'ateliers découlent des besoins et envies des DIG :**
-
-| Défi | Méthodologie | Design/DIG | Prospective |
-| -------- | -------- | -------- | ----------| 
-|**feuille de route** : résultats attendus et conditions de succès, métriques et milestones   | **méthodologie et organisation projets** : comment organiser des ateliers ? comment trouver un panel utilisateurs ? comment travailler avec une équipe tech ? quelles synergies entre les projets ?     | **connaître le métier de designer // connaître le métier de son administration** : en déduire une méthodologie de projets et un outillage pour travailller/ naviguer dans l'administration avec un mindset entrepreneurial     | **design fictions** : et si tous les managers publics étaient des designers ? si les managers publics travaillaient avec des designers qui ne sont pas dans l'administration ? |
-| **gouvernance et stratégie** : gestion des parties prenantes, prise de décision, arbitrages, la suite | **documentation**, méthodologie et retour d'expérience | **communication** : identité DIG, restitution des résultats, communication du projet/du programme, communication interne | **fonction transformatrice du programme ?** | 
-|pérennisation/mise en prod  | **design system** : comment mutualiser ce qui est produit ? | |**écosystème open source design** et ressources pour dénicher des innovations similaires | 

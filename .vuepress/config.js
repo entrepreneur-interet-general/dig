@@ -1,39 +1,58 @@
 sidebar = [
    {
-     title: 'Programme DIG',
+     title: 'La Promotion',
      collapsable: true,
      children: [
        'accompagnement',
-       'restitutions',
-       'facteurs-reussite'
+       'planning',
+       'outils-promotion',
+       'tiers-lieu'
      ]
    },
   {
-     title: 'Ressources',
-     collapsable: true,
-     children: [
+    title: 'Programme EIG',
+    collapsable: true,
+    children: [
+      'programme-eig',
       'ecosysteme',
-      'encadrement',
-      'outils',
-      'reseau'
-     ]
-   },
+      'ingenerie-programme',
+      'reseau-eig'
+    ]
+  },
+    {
+    title: 'Ressources',
+    collapsable: true,
+    children: [
+      'referentiels',
+      'design',
+      'developpement',
+      'opensource-licences',
+      'opendata',
+      'algorithmes-publics',
+      'securite'
+    ]
+  },
      {
      title: 'Bonnes pratiques',
      collapsable: true,
      children: [
-      'communication-interne',
-      'communication-externe',
-      'supports-communication',
-      'design'
+      'accueil-eig',
+      'preparation-defi',
+      'mesure-impact',
+      'concevoir',
+      'prototyper',
+      'ouvrir-publier',
+      'communication',
+      'documentation-defis',
+      'perennisation-defis'
      ]
    },
 ]
 
 module.exports = {
   theme: 'gouv-fr',
-  title: 'Documentation DIG',
-  description: "La documentation interne du programme Designers d'Intérêt Général.",
+  title: 'Documentation EIG',
+  description: "Cette documentation agrège les détails et ressources pratiques du programme Entrepreneurs d'Intérêt Général à destination de la communauté EIG",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#0053b3' }]
@@ -41,6 +60,7 @@ module.exports = {
   themeConfig: {
     sidebar: sidebar,
     sidebarDepth: 1,
+    logo: '/images/logo-eig.svg',
     docsDir: ".",
     repo: 'entrepreneur-interet-general/dig',
     repoLabel: 'Dépôt Git',
