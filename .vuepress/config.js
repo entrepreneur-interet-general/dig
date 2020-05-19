@@ -52,7 +52,7 @@ sidebar = [
 module.exports = {
   theme: 'gouv-fr',
   title: 'Documentation EIG',
-  description: "Cette documentation agrège les détails pratiques (planning, rituels, contributions), les ressources et les bonnes pratiques du programme Entrepreneurs d'Intérêt Général à destination de la communauté EIG",
+  description: "Cette documentation agrège les détails et ressources pratiques du programme Entrepreneurs d'Intérêt Général à destination de la communauté EIG",
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#0053b3' }]

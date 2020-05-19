@@ -1,56 +1,42 @@
 # Accompagnement de la promotion
 
 Pour vous suivre tout au long de vos défis, l'équipe EIG a mis en place un programme d'accompagnement.
+Ce programme s'organise suivants plusieurs axes d'animations et d’événements.
 
 [[toc]]
 
-## Sessions d'accompagnement mensuelles en plénière
+## Les formats d'accompagnement
+### Bootcamp
+_1 fois en début de promotion, durée d'une semaine._
+En début d'année, lorsque les entrepreneurs rejoignent le programme et après quelques jours dans leur organisme d'accueil, nous organisons une semaine d'intégration. C'est l'occasion que chacun fasse connaissance avec ses collègues, découvre l'accompagnement proposé par le programme, présente les premières problématiques auxquelles ils vont s'attaquer.
 
-Des journées thématiques et session de travail collectives se tiennent une fois par mois : prenez-bien note des dates !
-Pour voir le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/accompagnement.md
+### Sessions de travail collectives
+À raison d'une journée par mois, nous regroupons tous les défis en un même lieu. Ces sessions de travail collectives sont l'occasion d'aborder une thématique (cadre juridique, documentation, communication) avec une alternance d'ateliers, de présentations et de temps d'échange. Ces journées commencent par un standup, où chaque défi présente ses avancées. 
 
-## Co-working
+Ces sessions permettent :
+- d'assurer des synergies techniques et des suivis méthodologiques (entre défis et compétences) ;
+- de souder la promotion des EIG et des mentors, en favorisant des échanges informels et s'ancrant dans la communauté "numérique de l'État".
 
-Pour vous permettre de vous retrouver et de travailler en dehors de vos administrations, vous disposez d'un tiers-lieu une fois par semaine.
-Tous les mercredi après-midi, sauf avis contraire, le Laptop met à votre disposition un espace de coworking au 6 rue Arthur Rozier, 75 019 Paris.  
+Pour voir le planning et le détail des sessions d'accompagnement : https://github.com/entrepreneur-interet-general/dig/blob/master/planning.md
 
-Pour découvrir le tiers-lieu : https://www.lelaptop.com/espace/les-salles-de-reunion/
+### Accompagnement individuel
+Chaque défi a une personne référente au sein de l'équipe d'accompagnement du programme. La personne référente est le point de contact privilégié avec l'équipe du programme. Elle prend des nouvelles de chaque défi régulièrement, par le biais d'appels téléphoniques ou de rendez-vous physiques.
 
-## Suivi hebdomadaire
+Ces sessions sont un appui technique, opérationnel, de médiation/facilitation pour la bonne réussite du défi.
 
-Une rétrospective hebdomadaire asynchrone permet de remonter et partager les victoires, les difficultés et les besoins des défis. Elle prend la forme d'un court formulaire que chaque défi remplit avant 14h50 le vendredi. Les réponses des défis sont ensuite agrégées dans un mail et envoyées à toute la promotion à 15h.
+### Séminaires hors-les-murs
+_2 fois lors d'une promotion, 2 jours_
+Deux séminaires « hors-les-murs » sont organisés au cours d'une promotion : le premier à mi-parcours et le deuxième quelques semaines avant la fin de la promotion. D'une durée de 2 jours, nous nous retrouvons dans un lieu en dehors de Paris pour accélérer les défis, collaborer, parler stratégie et souder la promotion.
 
-Pour découvrir l'outil et renseigner votre rétrospective hebdomadaire : https://dig.ma-semaine.eig-forever.org/
 
-## Échanger au sein de la promotion
+## Suivi des défis
 
-### Messagerie instantanée
+Une rétrospective hebdomadaire asynchrone permet de remonter et partager les victoires, les difficultés et les besoins des défis. Elle prend la forme d'un court formulaire que chaque défi remplit avant 14h30 le vendredi. Les nouvelles des défis sont partagées dans un mail à toute la promotion à 15h.
+Pour découvrir l'outil et renseigner votre rétrospective hebdomadaire : https://eig.ma-semaine.eig-forever.org/
 
-Le programme EIG utilise [Slack](https://eig-hq.slack.com) comme outil de message instantanée.
-La chaîne #dig est dédiée aux designers d'intérêt général.
+_En savoir plus sur l'outil [Bulletins](https://bulletins.eig-forever.org)_
 
-#### Threads
-Nous encourageons l'utilisation des threads pour les discussions afin de fluidifier les discussions (pas d'enchevêtrement des messages) et que certains sujets ne se retrouvent pas « cachés » par un flux de messages trop important.
 
-#### Conventions de nommage des canaux
+## L'équipe d'encadrement
 
-#### Préfixes
 
-Pour faciliter la découverte des canaux, chaque canal est préfixé d'une catégorie.
-
-- `domaine-` : canaux de discussion liés à des pratiques / compétences ;
-- `eig<année>-<nom>` : un canal spécifique à une promotion DIG ;
-- `off-` : canaux de discussion sans but productif ;
-- `projet-<nom>` : canaux liés à des défis DIG ;
-- `tmp-` : canaux liés à un événement ponctuel et destinés à être archivés rapidement.
-
-En plus des précédents canaux, on peut trouver ces différents canaux :
-- `help` : besoin d'aide à adresser à la communauté ;
-- `offres-emploi` : partager des offres au sein de la communauté EIG.
-
-### Listes de diffusion
-
-Les DIG et mentors sont inscrits sur des listes de diffusion :
-
-* Les DIG sont inscrits sur la liste [dig@framalistes.org](mailto:dig@framalistes.org)
-* Les mentors des DIG sont inscrits sur la liste [mentors-dig@framalistes.org](mailto:mentors-dig@framalistes.org)

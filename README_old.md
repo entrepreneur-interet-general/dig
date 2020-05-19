@@ -2,7 +2,7 @@
 
 Vous êtes designer d'intérêt général - ou DIG - et vous venez d’arriver dans votre administration : bienvenu·e·s !
 
-Vous y êtes pour une durée de 6 à 12 mois pour relever des "défis". C'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation : vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
+Vous y êtes pour une durée de 10 mois pour relever des "défis". C'est ainsi que l'on désigne les projets pour montrer la posture entrepreneuriale nécessaire à leur réalisation : vous arrivez dans un environnement nouveau, vous ne connaissez peut-être pas l'administration et ses codes, vous avez relativement peu de temps pour faire aboutir des projets souvent ambitieux...
 
 **C'est donc bien un défi qui s'offre à vous et nous allons vous aider à le relever grâce aux ressources présentées dans ce dépôt.**
 
@@ -10,11 +10,7 @@ Vous y êtes pour une durée de 6 à 12 mois pour relever des "défis". C'est ai
 [[toc]]
 
 
-### Qui sommes-nous ?
 
-Le programme Designers d'Intérêt Général (DIG) a été inspiré du programme Entrepreneurs d'Intérêt Général (EIG). C'est pourquoi l'accompagnement de la première promotion de DIG a été confié à nous, l'équipe de coordination du programme EIG : 
-- pour en savoir plus sur le programme EIG : [https://entrepreneur-interet-general.etalab.gouv.fr/index.html](https://entrepreneur-interet-general.etalab.gouv.fr/index.html)
-- pour en savoir plus sur les membres de l'équipe de coordination : [https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html)
 
 **Pour nous contacter, écrivez-nous à l'alias du programme EIG : <entrepreneur-interet-general@data.gouv.fr>.**
 
