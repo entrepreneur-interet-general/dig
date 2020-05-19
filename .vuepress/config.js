@@ -14,6 +14,7 @@ sidebar = [
     title: 'Programme EIG',
     collapsable: true,
     children: [
+      'programme-eig'
       'ecosysteme',
       'ingenerie-programme',
       'reseau-eig'

@@ -1,4 +1,4 @@
-# Ouverture des productions
+# Ouvrir les productions
 
 ### Mini-guide pour l'ouverture du code source d'un défi EIG
 

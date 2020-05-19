@@ -1,1 +1,1 @@
-# Communiquer sur le défi et le programme
+# Communiquer sur le défi
